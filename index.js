@@ -12,6 +12,6 @@ return kittens;
 }
 
 function destructivelyRemoveLastKitten(name){
-  kitten.pop();
-  return kitten;
+  kittens.pop();
+  return kittens;
 }
